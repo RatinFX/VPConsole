@@ -20,7 +20,7 @@
 
 # VPConsole
 
-![vpconsole-preview](...)
+![vpconsole-preview](https://github.com/RatinFX/VPConsole/assets/38523955/d2b07eb8-5708-452c-b64e-1bd17916ba53)
 
 ## Overview
 
