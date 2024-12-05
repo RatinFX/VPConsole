@@ -20,8 +20,28 @@
 
 # VPConsole
 
+[Read more about it on my website](https://ratinfx.com/vpconsole)
+
 ![vpconsole-preview](https://github.com/RatinFX/VPConsole/assets/38523955/d2b07eb8-5708-452c-b64e-1bd17916ba53)
 
 ## Overview
 
-[Read more about it on my website](https://ratinfx.com/vpconsole)
+Quickly find and add **Effects**, **Transitions**, and **Generators**
+
+Create **Shortcuts** by **Right clicking** on an item and use them with the **1-9 keys**
+
+Save **Snapshots** in **JPG**, **PNG**, or copy them to **Clipboard**
+
+- Explore the **Settings menu** for further customization options
+
+## Setup Keyboard Shortcut
+
+- Set VPConsole as a **Keyboard Shortcut** in `Options -> Customize Keyboard`
+
+- Select `Global`
+
+- **Search** for `VPConsole` (under `Show commands containing`) and **select the Extension**
+
+- **Set a key combination** in `Shortcut keys`
+
+- Finally click **[Add]** then **[OK]**
