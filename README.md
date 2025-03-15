@@ -42,6 +42,6 @@ Save **Snapshots** in **JPG**, **PNG**, or copy them to **Clipboard**
 
 - **Search** for `VPConsole` (under `Show commands containing`) and **select the Extension**
 
-- **Set a key combination** in `Shortcut keys`
+- **Set a key combination** in `Shortcut keys` like **Ctrl + Shift + Space**
 
 - Finally click **[Add]** then **[OK]**
