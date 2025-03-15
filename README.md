@@ -22,6 +22,8 @@
 
 [Read more about it on my website](https://ratinfx.com/vpconsole)
 
+[Click here to join my Discord server if you found any anomalies or if you have any questions!](https://discord.com/invite/Su3mFUPCNh)
+
 ![vpconsole-preview](https://github.com/RatinFX/VPConsole/assets/38523955/d2b07eb8-5708-452c-b64e-1bd17916ba53)
 
 ## Overview
