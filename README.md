@@ -17,7 +17,6 @@
   </p>
 </div>
 
-
 # VPConsole
 
 [Read more about it on my website](https://ratinfx.com/vpconsole)
@@ -47,3 +46,9 @@ Save **Snapshots** in **JPG**, **PNG**, or copy them to **Clipboard**
 - **Set a key combination** in `Shortcut keys` like **Ctrl + Shift + Space**
 
 - Finally click **[Add]** then **[OK]**
+
+## Special thanks
+
+To **zzzzzz9125** for continuously sharing and updating the Chinese translations on my Discord server.
+
+To **everyone**, who helped test new features via the open-betas and provided any feedback.
